@@ -30,9 +30,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://utsavadhyaru.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat&logo=vercel&logoColor=white" target="_blank alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1UZ5mtswl186L8Y4dQQ6RHpMy5g1FRuU9/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1lexRJrzIVS9isPjyY4NoHD5Yyj9VXwtw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
